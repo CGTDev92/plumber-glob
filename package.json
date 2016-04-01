@@ -6,7 +6,7 @@
   "dependencies": {
     "minimatch": "~0.2.14",
     "flatten": "~0.0.1",
-    "gaze": "~0.6.4"
+    "gaze": "~1.0.0"
   },
   "peerDependencies": {
     "plumber": "^0.4.4"
